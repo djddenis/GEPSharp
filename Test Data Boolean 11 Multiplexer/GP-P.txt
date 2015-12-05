@@ -1,0 +1,171 @@
+Population 4000. 50 Generations in 00:00:34.3580000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A0, D1, D0, 
+
+Population 4000. 50 Generations in 00:00:34.0960000
+Solution Fitness: 1908.07966290719 out of a possible 2048
+Solution:
+IF, 
+A1, AND, D0, 
+IF, D6, 
+A2, OR, D2, 
+IF, D3, 
+AND, D4, D0, 
+D2, D0, 
+
+Population 4000. 50 Generations in 00:00:32.6860000
+Solution Fitness: 1904.94094396651 out of a possible 2048
+Solution:
+IF, 
+A1, AND, OR, 
+D7, OR, D0, D5, 
+OR, D0, 
+A2, IF, 
+D3, D1, D0, 
+
+Population 4000. 50 Generations in 00:00:35.3730000
+Solution Fitness: 1901.76339222312 out of a possible 2048
+Solution:
+AND, 
+IF, OR, 
+A1, D7, AND, OR, IF, 
+D1, A0, D2, D3, D0, D1, D2, 
+
+Population 4000. 50 Generations in 00:00:33.6810000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A0, D3, D6, 
+
+Population 4000. 50 Generations in 00:00:35.8700000
+Solution Fitness: 1923.19733776854 out of a possible 2048
+Solution:
+IF, 
+A0, OR, D6, 
+D3, IF, 
+D7, A2, AND, 
+D7, D7, 
+
+Population 4000. 50 Generations in 00:00:35.8990000
+Solution Fitness: 1911.17974036981 out of a possible 2048
+Solution:
+AND, 
+IF, IF, 
+A2, AND, D3, IF, OR, A0, 
+IF, A2, A1, IF, D4, A0, D6, 
+IF, A2, D5, D0, D6, D0, 
+D5, OR, AND, 
+IF, A1, A2, D2, 
+A2, D5, IF, 
+OR, D6, D0, 
+D4, IF, 
+A0, D3, IF, 
+D2, A0, D6, 
+
+Population 4000. 50 Generations in 00:00:35.6590000
+Solution Fitness: 1911.17974036981 out of a possible 2048
+Solution:
+IF, 
+A0, IF, AND, 
+D4, D3, AND, D4, OR, 
+D7, D6, A2, D2, 
+
+Population 4000. 50 Generations in 00:00:34.6150000
+Solution Fitness: 1911.17974036981 out of a possible 2048
+Solution:
+IF, 
+A0, AND, OR, 
+D5, D1, D0, AND, 
+D4, D2, 
+
+Population 4000. 50 Generations in 00:00:35.4640000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A0, D1, D4, 
+
+Population 4000. 50 Generations in 00:00:33.3620000
+Solution Fitness: 1926.10695445502 out of a possible 2048
+Solution:
+IF, 
+OR, IF, D0, 
+A2, IF, A0, D7, D4, 
+D3, D2, IF, 
+D1, IF, OR, 
+D4, IF, A2, A2, D5, 
+A0, A1, D7, 
+
+Population 4000. 50 Generations in 00:00:35.5440000
+Solution Fitness: 1904.94094396651 out of a possible 2048
+Solution:
+OR, 
+AND, IF, 
+D7, IF, AND, OR, IF, 
+D6, A1, D5, D5, A0, D2, OR, A1, AND, D4, 
+D0, NOT, D6, D6, 
+D2, 
+
+Population 4000. 50 Generations in 00:00:35.1630000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A2, D4, D1, 
+
+Population 4000. 50 Generations in 00:00:36.2420000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A2, D4, D2, 
+
+Population 4000. 50 Generations in 00:00:37.6150000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A0, D3, D2, 
+
+Population 4000. 50 Generations in 00:00:38.3500000
+Solution Fitness: 1904.94094396651 out of a possible 2048
+Solution:
+IF, 
+A2, IF, D0, 
+AND, NOT, D5, 
+AND, D6, A0, 
+D0, D4, 
+
+Population 4000. 50 Generations in 00:00:36.6690000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A2, D7, IF, 
+D1, D1, D3, 
+
+Population 4000. 50 Generations in 00:00:37.4430000
+Solution Fitness: 1911.17974036981 out of a possible 2048
+Solution:
+OR, 
+AND, IF, 
+A1, OR, A2, D4, D1, 
+D5, D6, 
+
+Population 4000. 50 Generations in 00:00:36.2020000
+Solution Fitness: 1904.94094396651 out of a possible 2048
+Solution:
+IF, 
+AND, OR, AND, 
+IF, A2, D5, IF, D7, D2, 
+A0, D7, OR, D1, D1, A1, 
+D6, IF, 
+NOT, NOT, D1, 
+NOT, IF, 
+A0, A2, A0, AND, 
+D1, IF, 
+D7, D4, D2, 
+
+Population 4000. 50 Generations in 00:00:37.3890000
+Solution Fitness: 1898.54681269649 out of a possible 2048
+Solution:
+IF, 
+A1, D7, D1, 
+

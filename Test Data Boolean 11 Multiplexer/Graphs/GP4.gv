@@ -1,0 +1,10 @@
+digraph T {
+	NOT47 -> A248
+	IF46 -> NOT47
+	IF46 -> D249
+	AND50 -> D651
+	OR52 -> D453
+	OR52 -> D454
+	AND50 -> OR52
+	IF46 -> AND50
+}

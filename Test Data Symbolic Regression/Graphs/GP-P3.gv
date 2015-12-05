@@ -1,0 +1,20 @@
+digraph T {
+	e198 -> X199
+	e200 -> X201
+	e200 -> X202
+	e198 -> e200
+	mult197 -> e198
+	e204 -> X205
+	mult208 -> X209
+	ln210 -> X211
+	mult208 -> ln210
+	mult207 -> mult208
+	mult207 -> X212
+	minus206 -> mult207
+	plus213 -> X214
+	plus213 -> X215
+	minus206 -> plus213
+	e204 -> minus206
+	ln203 -> e204
+	mult197 -> ln203
+}

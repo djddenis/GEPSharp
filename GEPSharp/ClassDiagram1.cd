@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GEPSharp.Domain" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAgAAAAA=</HashCode>
+      <FileName>Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.Evaluable" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAEAAAAAEAgIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.GEPIndividual" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAEACAAAEEAAIAAgAAAAAAAAgAGAAgAAAAAEA=</HashCode>
+      <FileName>GEP\GEPIndividual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.GEPProblem" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAAABABQAQQACAAAAABACABAAEAgAAgBAAE=</HashCode>
+      <FileName>GEP\GEPProblem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.KarvaDomain" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAwAABAAAQAAAAEAAAAAAAAgAIAgAAAAAAAA=</HashCode>
+      <FileName>GEP\KarvaDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.LinearDomain" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAACAAAAABAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GEP\LinearDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.GPDomain" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAAAACAAAAAACAggAigAAAAAAAE=</HashCode>
+      <FileName>GP\GPDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.GPIndividual" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAACAAAAEAAoAAgAAAAAAAAgAQgIAAAAAAAA=</HashCode>
+      <FileName>GP\GPIndividual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.Node" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAIAAAAEQAAAAAAAAAggAAAAAAAAAAA=</HashCode>
+      <FileName>GP\GPNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.GPProblem" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>GP\GPProblem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.Individual" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACQAAAIAAgAAAAIAAAgAAAAASgAAAEI=</HashCode>
+      <FileName>Individual.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GEPSharp.NodeBase" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAEAEAgAAAgQAAAAAAAgAAAAgAAQAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.Problem" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACABAAAAAIAAAYAAAQAAAAEMAAAAAgAAAAAAAQQAA=</HashCode>
+      <FileName>Problem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.StaticRandom" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>StaticRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GEPSharp.TestHelper" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAIAAIAAAAACAAAAEAAQAAAAABADAAAAA=</HashCode>
+      <FileName>TestHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="GEPSharp.EvaluationFunction" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluable.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GEPSharp.NodeFunction" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GEPSharp.FitnessFunction" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

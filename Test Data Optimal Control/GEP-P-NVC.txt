@@ -1,0 +1,80 @@
+Population 100. 50 Generations in 00:03:07.7010000
+Solution Fitness: 7403 out of a possible 10000
+Solution:
+/-ABS*X/Neg1V/-ABSNeg1X>X-XXVNeg1XVXNeg1Neg1VXXVVNeg1XX
+Population 100. 50 Generations in 00:06:13.5770000
+Solution Fitness: 8203 out of a possible 10000
+Solution:
+-*-V-X*Neg1ABS*Neg1-+ABS*/VVNeg1VXNeg1XXNeg1XNeg1VXXXXNeg1
+Population 100. 50 Generations in 00:04:22.0290000
+Solution Fitness: 5368 out of a possible 10000
+Solution:
+*Neg1-//VNeg1*Neg1ABS>>*+*+XNeg1VVVVNeg1VXVXXNeg1XVXX
+Population 100. 50 Generations in 00:05:08.8430000
+Solution Fitness: 6054 out of a possible 10000
+Solution:
+//X/ABS-Neg1/>--ABSNeg1++*XXVVNeg1VXNeg1XVNeg1Neg1XNeg1Neg1XX
+Population 100. 50 Generations in 00:04:58.7140000
+Solution Fitness: 5994 out of a possible 10000
+Solution:
+ABS--V++**VVNeg1VXNeg1Neg1+XNeg1XNeg1XVVXNeg1Neg1Neg1XVXXNeg1X
+Population 100. 50 Generations in 00:03:39.9470000
+Solution Fitness: 2873 out of a possible 10000
+Solution:
+>*/Neg1+ABS*XNeg1*>/Neg1/-XVVNeg1XXVNeg1Neg1Neg1Neg1Neg1XNeg1VVVX
+Population 100. 50 Generations in 00:05:03.4280000
+Solution Fitness: 7764 out of a possible 10000
+Solution:
+>*Neg1V--*+XV>>>V>ABSVVXNeg1Neg1VXXVVXXXVXNeg1V
+Population 100. 50 Generations in 00:03:39.5750000
+Solution Fitness: 8080 out of a possible 10000
+Solution:
+->-**X>VVABS/ABSXVV/VXXNeg1Neg1Neg1VXXXXXVVXVNeg1
+Population 100. 50 Generations in 00:04:21.0540000
+Solution Fitness: 4676 out of a possible 10000
+Solution:
+/>/-/>X>VV>ABSX/++Neg1VVNeg1XVNeg1Neg1VVVXNeg1VNeg1Neg1V
+Population 100. 50 Generations in 00:04:44.0760000
+Solution Fitness: 4478 out of a possible 10000
+Solution:
+>/--+>>*+/X+ABS-++Neg1XVNeg1XXVXXXXXVVNeg1VV
+Population 100. 50 Generations in 00:04:30.2150000
+Solution Fitness: 7170 out of a possible 10000
+Solution:
+--*-+/V++*++V*XVVXVXXVVVNeg1XNeg1XNeg1XNeg1Neg1Neg1
+Population 100. 50 Generations in 00:03:12.7350000
+Solution Fitness: 8682 out of a possible 10000
+Solution:
+--V-*>/>VNeg1++ABSVNeg1+Neg1VVXVXXVNeg1VNeg1XXVVXV
+Population 100. 50 Generations in 00:06:01.6150000
+Solution Fitness: 6258 out of a possible 10000
+Solution:
+>X-X*V*V-Neg1+-//+Neg1Neg1XVNeg1Neg1XXXNeg1XNeg1VNeg1XXVV
+Population 100. 50 Generations in 00:03:50.6600000
+Solution Fitness: 6602 out of a possible 10000
+Solution:
++/XV--X/+Neg1>/XV-ABSVNeg1Neg1VNeg1VVNeg1VNeg1Neg1XXNeg1XXX
+Population 100. 50 Generations in 00:04:54.6080000
+Solution Fitness: 7547 out of a possible 10000
+Solution:
+*Neg1--VV+/X+/X+X+XXVVVXVNeg1XVVVVXVXVNeg1
+Population 100. 50 Generations in 00:04:48.9220000
+Solution Fitness: 5338 out of a possible 10000
+Solution:
+>V->ABS/Neg1Neg1>-V**>+Neg1XVVNeg1XVVNeg1XVVNeg1Neg1Neg1Neg1XNeg1
+Population 100. 50 Generations in 00:04:39.7770000
+Solution Fitness: 3169 out of a possible 10000
+Solution:
+-Neg1ABS>++>X>>>>-X-XVNeg1XXVVXVXNeg1Neg1XXNeg1XXX
+Population 100. 50 Generations in 00:03:05.1330000
+Solution Fitness: 7862 out of a possible 10000
+Solution:
+*+Neg1>-+/X>-VNeg1V*XVVVNeg1VXNeg1Neg1XXVXNeg1XNeg1XXX
+Population 100. 50 Generations in 00:04:24.8750000
+Solution Fitness: 5913 out of a possible 10000
+Solution:
+>XABS/Neg1+-Neg1-+>+-XX+VXXXVXNeg1XNeg1Neg1VNeg1Neg1XNeg1XX
+Population 100. 50 Generations in 00:05:35.4100000
+Solution Fitness: 7186 out of a possible 10000
+Solution:
+/+Neg1*+-Neg1X+++Neg1V>/+VNeg1VVNeg1VVXXNeg1Neg1XNeg1VVNeg1X

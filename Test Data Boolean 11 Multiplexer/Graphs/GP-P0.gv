@@ -1,0 +1,5 @@
+digraph T {
+	IF0 -> A01
+	IF0 -> D12
+	IF0 -> D03
+}

@@ -1,0 +1,22 @@
+Population 500. 50 Generations in 08:27:56.7800000
+Solution Fitness: 9444 out of a possible 10000
+Solution:
+>, 
+*, ABS, 
+*, +, +, 
+-, *, ABS, >, >, *, 
+V, >, Neg1, V, Neg1, >, >, -, V, >, *, 
++, Neg1, >, X, V, V, /, X, >, Neg1, +, >, 
++, +, ABS, V, /, -, /, -, V, -, X, *, 
+>, V, -, >, X, /, /, /, X, V, Neg1, Neg1, V, /, Neg1, +, +, 
++, V, Neg1, X, Neg1, /, ABS, /, V, X, >, >, ABS, /, V, V, +, +, 
+/, X, Neg1, X, /, Neg1, Neg1, Neg1, V, *, ABS, Neg1, ABS, >, +, >, +, Neg1, 
+*, /, ABS, >, X, >, *, -, *, X, /, /, >, X, +, >, 
+/, -, /, >, -, *, X, Neg1, ABS, Neg1, V, V, V, X, +, >, V, ABS, >, Neg1, >, /, /, /, X, 
+V, ABS, *, Neg1, ABS, /, V, X, V, V, X, +, V, V, V, -, X, -, X, X, V, V, >, V, ABS, X, *, >, 
+V, *, ABS, Neg1, ABS, >, V, V, +, V, /, V, -, X, V, ABS, Neg1, X, ABS, 
+Neg1, Neg1, X, -, *, X, -, *, >, Neg1, +, V, X, V, 
+V, V, X, +, Neg1, V, Neg1, Neg1, V, ABS, -, *, 
+V, V, +, Neg1, V, Neg1, Neg1, 
+X, V, 
+

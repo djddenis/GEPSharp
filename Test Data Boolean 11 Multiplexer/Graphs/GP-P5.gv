@@ -1,0 +1,12 @@
+digraph T {
+	IF54 -> A055
+	OR56 -> D357
+	IF58 -> D759
+	IF58 -> A260
+	AND61 -> D762
+	AND61 -> D763
+	IF58 -> AND61
+	OR56 -> IF58
+	IF54 -> OR56
+	IF54 -> D664
+}

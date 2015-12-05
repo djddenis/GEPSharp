@@ -1,0 +1,16 @@
+digraph T {
+	IF20 -> A121
+	AND22 -> D723
+	OR25 -> A226
+	IF27 -> D328
+	IF27 -> D129
+	IF27 -> D030
+	OR25 -> IF27
+	OR24 -> OR25
+	OR24 -> D031
+	AND22 -> OR24
+	IF20 -> AND22
+	OR32 -> D033
+	OR32 -> D534
+	IF20 -> OR32
+}

@@ -1,0 +1,12 @@
+digraph T {
+	IF0 -> A21;
+	IF0 -> D42;
+	IF0 -> OR3;
+	OR3 -> D14;
+	OR3 -> A15;
+	IF9 -> A06;
+	IF9 -> A07;
+	IF9 -> A08;
+	OR15 -> IF9;
+	OR15 -> D010;
+}

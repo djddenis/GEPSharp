@@ -1,0 +1,80 @@
+Population 500. 50 Generations in 00:00:03.2850000
+Solution Fitness: 1536.0422352299 out of a possible 2000
+Solution:
+eXmultcosmultminuseplusXplusmultsinsinmultXXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.5570000
+Solution Fitness: 1028.25141543013 out of a possible 2000
+Solution:
+multmultmulteXXdivmultmultmultcosminuseplusXeXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.5590000
+Solution Fitness: 1093.59350912906 out of a possible 2000
+Solution:
+emultsinXelnXcosdivXsinXmultXmulteXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.4200000
+Solution Fitness: 1100.9981610221 out of a possible 2000
+Solution:
+multeXmultXXemultXXXdivXXminuseXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.1830000
+Solution Fitness: 1444.89389380984 out of a possible 2000
+Solution:
+epluscoslncosdivmultXmultcoscoseeXsincosXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.0740000
+Solution Fitness: 1615.49190870066 out of a possible 2000
+Solution:
+plusXmultmulteXXplusXmultXXXXdivmultXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.2270000
+Solution Fitness: 1401.81797755452 out of a possible 2000
+Solution:
+multmulteeXsinemultXXXXXmultmultcosXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.1780000
+Solution Fitness: 1672.96967716141 out of a possible 2000
+Solution:
+eeXXdivmultcoseXsinXdivXXXXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.3040000
+Solution Fitness: 988.304410504212 out of a possible 2000
+Solution:
+minusmultXlncosmultdivsinlnedivsinmultXecosXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.2550000
+Solution Fitness: 1505.27723734903 out of a possible 2000
+Solution:
+multdivXecosXXsinXsinXsinXdivmultcosXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.3830000
+Solution Fitness: 1474.40571230645 out of a possible 2000
+Solution:
+cosdivmultdivXplusdivemultcosXXXmultXXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.2720000
+Solution Fitness: 1347.56951502823 out of a possible 2000
+Solution:
+plusplussinXmultsinXXmultmultXmultsinXeXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.3200000
+Solution Fitness: 1347.27338563407 out of a possible 2000
+Solution:
+sinsinmulteXXXsinmulteXmultcosmulteXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.2980000
+Solution Fitness: 905.598137617735 out of a possible 2000
+Solution:
+multmultlnesinsinXdivmultcospluscoscosXXmultXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.9150000
+Solution Fitness: 1293.30329131763 out of a possible 2000
+Solution:
+pluslnplusmultmultXpluseXdivXmultmultmulteeXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.1550000
+Solution Fitness: 1463.39396268401 out of a possible 2000
+Solution:
+multeXXdivXmultmultmultedivcosmultmultmulteXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.4530000
+Solution Fitness: 2000 out of a possible 2000
+Solution:
+minusmultmultplusplusdivsinmultXmultdivmultemultXXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.4920000
+Solution Fitness: 1562.40261924215 out of a possible 2000
+Solution:
+XXmultesinXmultlndivXXcoscosesinsinXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:02.2310000
+Solution Fitness: 1109.03177692763 out of a possible 2000
+Solution:
+multmultcosXesinXmultmultdivXmultlnecosXXXXXXXXXXXXXXXXXX
+Population 500. 50 Generations in 00:00:03.1570000
+Solution Fitness: 1418.36267257985 out of a possible 2000
+Solution:
+cosmultminusemultXplusXmultminusdivesineesinXXXXXXXXXXXXXXXXX

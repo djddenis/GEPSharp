@@ -1,0 +1,19 @@
+digraph T {
+	mult0 -> div1;
+	mult0 -> e2;
+	div1 -> X3;
+	div1 -> cos4;
+	e2 -> X5;
+	e2 -> X6;
+	cos4 -> sin7;
+	sin7 -> X8;
+	ln9 -> ln9;
+	div10 -> div10;
+	div10 -> e11;
+	e11 -> X12;
+	e11 -> mult13;
+	mult13 -> plus14;
+	mult13 -> X15;
+	plus14 -> X16;
+	plus14 -> X17;
+}

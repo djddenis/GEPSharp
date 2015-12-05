@@ -1,0 +1,12 @@
+digraph T {
+	IF88 -> A189
+	IF88 -> D390
+	IF91 -> D392
+	IF91 -> D093
+	IF91 -> D694
+	IF88 -> IF91
+	AND87 -> IF88
+	OR95 -> D096
+	OR95 -> D297
+	AND87 -> OR95
+}

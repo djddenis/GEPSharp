@@ -1,0 +1,394 @@
+Population 500. 50 Generations in 00:00:05.4510000
+Solution Fitness: 45 out of a possible 89
+Solution:
+Do2, 
+Move, Do3, 
+Move, Do2, Do3, 
+Do3, Move, IfFoodAhead, IfFoodAhead, Do3, 
+Move, Right, Move, Do2, Do2, Do2, Move, Do2, Move, Move, 
+Move, IfFoodAhead, IfFoodAhead, Do2, Move, Do2, Do3, IfFoodAhead, 
+IfFoodAhead, Do2, Do2, Right, IfFoodAhead, Move, Move, IfFoodAhead, Move, Left, Move, Do2, Move, 
+Move, Do2, Right, Right, Left, IfFoodAhead, Move, Left, Move, Move, IfFoodAhead, Do2, 
+Do2, Do3, Do2, Move, Move, Right, IfFoodAhead, Do2, 
+Do3, Do3, IfFoodAhead, Do3, Do3, Do2, IfFoodAhead, Left, Do3, Move, Do2, 
+IfFoodAhead, Do2, Move, IfFoodAhead, Do3, Move, IfFoodAhead, Do2, Left, Do2, Move, Move, Do2, Do3, Right, Do3, Left, Left, Right, Right, Move, Do3, Right, 
+Right, Right, Right, Left, IfFoodAhead, Do2, IfFoodAhead, Do2, Move, Do3, Left, Move, IfFoodAhead, Move, IfFoodAhead, Do3, Move, Do2, Move, Do3, IfFoodAhead, IfFoodAhead, Do2, Do2, Move, Left, 
+Do3, IfFoodAhead, Do2, IfFoodAhead, Right, Left, Right, Do3, Move, Right, Move, Move, Left, Do2, Move, Move, Do2, Move, Move, IfFoodAhead, Do2, Move, Move, Left, Right, Move, Left, IfFoodAhead, Left, Right, Move, 
+Move, Move, Move, Do2, Do2, Move, Move, Move, Left, IfFoodAhead, IfFoodAhead, Do2, IfFoodAhead, Do3, Do3, Move, Move, Right, Left, Do3, Move, Move, 
+Right, Do3, Right, Do3, Left, Right, Move, Left, IfFoodAhead, Left, Do2, Move, Move, Do2, Move, Move, Right, Move, Move, Move, Left, 
+IfFoodAhead, Do3, Left, Move, Move, Move, Move, Move, Left, Right, Do2, Do3, 
+IfFoodAhead, Do2, Left, Move, Move, Move, Right, Move, Right, Do3, 
+Move, Move, Right, Move, Move, Right, Move, 
+
+Population 500. 50 Generations in 00:00:07.6080000
+Solution Fitness: 47 out of a possible 89
+Solution:
+Do2, 
+Do3, Move, 
+Move, IfFoodAhead, IfFoodAhead, 
+IfFoodAhead, Right, Do2, Do3, 
+Do3, Right, Do3, Move, IfFoodAhead, Move, Left, 
+Move, IfFoodAhead, Do3, Do2, Move, IfFoodAhead, Do3, Move, 
+Move, Move, Move, IfFoodAhead, Right, IfFoodAhead, Left, Move, Do2, IfFoodAhead, Move, Do2, 
+Do3, Right, IfFoodAhead, Move, Move, Right, Do3, Move, IfFoodAhead, Move, 
+Move, Right, Do3, Move, Right, Do3, Left, Do3, Move, Right, 
+Move, Move, IfFoodAhead, Left, Move, Do3, Right, Do2, Right, 
+Right, Move, Move, Move, Do2, Left, Left, 
+Move, IfFoodAhead, 
+Left, Left, 
+
+Population 500. 50 Generations in 00:00:16.0810000
+Solution Fitness: 32 out of a possible 89
+Solution:
+Do2, 
+Do2, Left, 
+Move, Do3, 
+Do3, Do3, IfFoodAhead, 
+Right, Do2, Left, Left, Do3, Do2, IfFoodAhead, Do3, 
+Do3, Do3, Do2, Right, IfFoodAhead, Do2, Do3, Left, Do2, Do2, Do2, Do2, 
+Left, Do3, Do3, Move, Do2, Move, Right, IfFoodAhead, Left, Move, Left, Right, Right, Move, Do3, Move, IfFoodAhead, Do2, Right, IfFoodAhead, Do2, Do2, Right, 
+Left, Do3, Move, Do3, Do3, Do3, Do3, IfFoodAhead, IfFoodAhead, Right, Do3, Do3, Left, Do3, Left, Right, Do2, Move, Right, IfFoodAhead, Left, Left, IfFoodAhead, 
+Do3, Do3, Right, Left, IfFoodAhead, Do2, Right, IfFoodAhead, Move, Right, Left, Do3, Right, Left, Left, Left, Right, Left, Left, Left, Do3, IfFoodAhead, Do3, IfFoodAhead, Right, Left, Do3, Do2, Move, Move, Do2, Right, Right, Left, 
+Do2, IfFoodAhead, IfFoodAhead, Do3, Left, IfFoodAhead, Left, Move, Do2, Move, Do2, IfFoodAhead, Right, Right, Do3, Do2, Left, Do2, Do3, IfFoodAhead, Move, Do3, Do3, Move, Left, Do2, Do3, Left, Do3, Move, Left, Do2, 
+Move, IfFoodAhead, Right, Do3, Do3, Left, Do3, IfFoodAhead, IfFoodAhead, IfFoodAhead, Move, IfFoodAhead, IfFoodAhead, Do3, Right, IfFoodAhead, Move, Right, IfFoodAhead, Move, IfFoodAhead, Do2, Do3, Move, Do3, Move, Do3, Right, IfFoodAhead, Move, Left, Do2, Right, Do2, Move, Left, Do3, Left, Do2, IfFoodAhead, IfFoodAhead, Move, Left, Right, Left, 
+Do3, Move, IfFoodAhead, Do3, Move, Right, Move, Right, Left, Right, Right, Move, Left, Do3, Do2, Move, Left, Do2, Do2, IfFoodAhead, Right, Left, Left, Move, Right, Left, Do2, IfFoodAhead, IfFoodAhead, Do3, IfFoodAhead, Left, Move, IfFoodAhead, Right, Right, Do3, Do3, Left, Move, Left, Do3, Move, Do3, Left, Move, Move, Do2, Do2, IfFoodAhead, Move, Left, Right, Move, Left, Left, 
+Left, Left, Do3, Left, Right, Do3, Do3, Right, Left, Right, Right, Left, IfFoodAhead, Right, IfFoodAhead, IfFoodAhead, Do3, Move, Right, Do2, Right, IfFoodAhead, Do2, Right, Move, Move, IfFoodAhead, Left, Right, Do2, Left, IfFoodAhead, Do2, IfFoodAhead, Right, IfFoodAhead, IfFoodAhead, Move, Move, Right, Right, Do2, Right, Do3, Right, IfFoodAhead, Do3, Move, IfFoodAhead, Right, 
+IfFoodAhead, Do3, Do2, Move, IfFoodAhead, IfFoodAhead, Do2, Move, Move, Move, Do3, Do3, Move, Right, Do3, Move, Right, Move, IfFoodAhead, Left, Right, IfFoodAhead, IfFoodAhead, Move, Right, Right, Move, IfFoodAhead, Left, Right, Right, Move, Left, Move, Right, Do3, Right, IfFoodAhead, Move, Right, Move, Do3, Do3, Left, Right, IfFoodAhead, Do2, Do3, Right, Do3, 
+Do3, Left, Move, Left, IfFoodAhead, Do3, Do3, Right, Right, Left, Do3, Right, Do2, Left, Move, Move, Do3, Move, Do3, Right, Do3, Do2, Right, Do2, Left, Do2, Left, Right, Right, IfFoodAhead, Do3, Do2, Do2, Move, Move, Right, Do3, Do3, Right, IfFoodAhead, Right, Move, Left, Right, IfFoodAhead, IfFoodAhead, Left, IfFoodAhead, IfFoodAhead, Do2, Left, 
+Do2, Left, Do2, Move, Left, Left, Right, Do2, IfFoodAhead, Left, Left, Left, Move, Do2, Left, Move, Right, Do3, Left, Left, Do2, IfFoodAhead, Do3, IfFoodAhead, Move, Right, Do2, Right, IfFoodAhead, Move, Do3, Right, Move, Right, Right, Right, IfFoodAhead, Do2, Right, Left, Move, IfFoodAhead, Move, IfFoodAhead, Do3, IfFoodAhead, Do2, IfFoodAhead, Left, Move, Left, IfFoodAhead, Move, Do2, IfFoodAhead, Do3, Do2, IfFoodAhead, 
+Left, Right, Left, Left, Right, Right, Move, Right, Move, Do2, Move, Left, Move, Move, Left, Right, Move, Left, Left, Left, Right, Move, Left, Right, Right, Right, Do2, Right, Right, Move, Left, Move, Move, Left, Move, Move, Right, IfFoodAhead, Left, Move, Move, IfFoodAhead, Right, Right, Left, Left, Left, Left, Right, Left, Do2, Move, Right, Right, Move, Right, Do3, Move, Left, 
+Move, Move, Right, Right, Move, Move, Right, Move, Right, Left, Right, Move, Move, 
+
+Population 500. 50 Generations in 00:00:05.8480000
+Solution Fitness: 69 out of a possible 89
+Solution:
+IfFoodAhead, 
+Do2, Do2, 
+Move, Do2, Do3, Left, 
+Move, Left, Right, Do2, IfFoodAhead, 
+Move, Right, Right, Left, 
+
+Population 500. 50 Generations in 00:00:07.4790000
+Solution Fitness: 47 out of a possible 89
+Solution:
+IfFoodAhead, 
+Move, Do2, 
+IfFoodAhead, Do2, 
+Do3, Do3, IfFoodAhead, Move, 
+Move, Left, Move, Left, Do3, IfFoodAhead, IfFoodAhead, IfFoodAhead, 
+Do2, IfFoodAhead, Do3, Left, Right, Move, IfFoodAhead, Do3, Move, 
+Move, Move, IfFoodAhead, IfFoodAhead, Move, Move, Left, Do2, IfFoodAhead, Do2, Right, IfFoodAhead, 
+Move, Move, IfFoodAhead, Right, Move, Do3, Move, IfFoodAhead, IfFoodAhead, IfFoodAhead, Do2, IfFoodAhead, 
+Right, Do3, Left, Do2, Do2, Move, Left, Move, Do3, Right, Do2, Right, Right, Do3, Move, 
+Do2, IfFoodAhead, Do3, Do2, IfFoodAhead, Left, Move, Move, Move, Do3, IfFoodAhead, Move, Do2, Right, Move, 
+Do3, Do3, Do3, Do3, Move, Right, IfFoodAhead, Right, Right, Right, Right, IfFoodAhead, Do2, IfFoodAhead, IfFoodAhead, IfFoodAhead, IfFoodAhead, Move, 
+IfFoodAhead, Move, Move, Do3, Move, IfFoodAhead, IfFoodAhead, Do3, IfFoodAhead, Do3, Do3, Right, Move, Move, IfFoodAhead, IfFoodAhead, Move, Right, Left, Left, IfFoodAhead, IfFoodAhead, IfFoodAhead, IfFoodAhead, IfFoodAhead, Do3, 
+Move, Left, Do3, Do2, Left, Do2, Move, IfFoodAhead, Move, Right, IfFoodAhead, Move, Move, Left, Left, Right, Right, Move, Move, Do3, Move, Do3, Do2, IfFoodAhead, Move, Right, Do2, IfFoodAhead, IfFoodAhead, Right, Left, Move, Move, Left, Move, Move, Do3, 
+Do3, Do3, Do2, Do3, Do3, Left, Do3, Move, Left, Do2, Left, Right, Left, Move, Do3, Do3, IfFoodAhead, Left, Do2, Move, IfFoodAhead, Left, Do2, Move, IfFoodAhead, Left, Move, Move, Do2, IfFoodAhead, 
+Right, Right, Do2, Do2, Left, Do2, Do2, Move, Move, Move, IfFoodAhead, Left, Left, Right, Do3, Move, Do2, Do3, Move, Left, Left, Right, Move, Do3, IfFoodAhead, Left, Left, Right, Left, IfFoodAhead, Left, Right, Left, Move, Left, Move, Move, Left, Move, 
+Right, Right, Left, Move, Move, Left, Move, Do2, Move, Do2, Left, Left, Right, Do2, Move, Move, Move, Move, Move, Move, Right, Left, Move, Move, Right, 
+Do2, Move, Left, Move, Left, Move, 
+Left, Move, 
+
+Population 500. 50 Generations in 00:00:06.6460000
+Solution Fitness: 39 out of a possible 89
+Solution:
+Do3, 
+Move, Do3, IfFoodAhead, 
+Move, IfFoodAhead, Right, IfFoodAhead, IfFoodAhead, 
+IfFoodAhead, Right, Left, Right, Do3, Do2, 
+Do2, Do3, Do2, Do2, Left, Left, Do2, 
+IfFoodAhead, IfFoodAhead, Do2, Do3, Left, Move, Left, Do2, Do3, Do3, IfFoodAhead, 
+Do2, Do2, Move, Left, Right, Right, Move, IfFoodAhead, Move, Do2, Do2, Move, Do3, Do2, Move, Do2, Do3, Do2, Left, 
+Move, Move, Move, Left, Do2, Move, IfFoodAhead, Right, Do3, Move, Do3, Move, Do2, IfFoodAhead, Left, Right, Move, Do2, Right, IfFoodAhead, Right, Left, 
+Move, Right, IfFoodAhead, Do2, Left, Move, Move, Move, Do2, Do2, Left, IfFoodAhead, Move, Right, Left, Move, Do2, Left, 
+Left, Right, Move, Move, Move, Move, Do3, Move, Right, Move, Right, Do3, 
+Right, Right, Right, Left, Left, Do3, 
+Do2, Do2, Do3, 
+Do3, Left, Do2, Do3, Do2, Move, IfFoodAhead, 
+IfFoodAhead, Left, Left, Do2, Do2, Move, Do3, Do2, IfFoodAhead, Do3, Left, Left, 
+Do3, Left, IfFoodAhead, Do2, Do3, Move, IfFoodAhead, IfFoodAhead, Do2, IfFoodAhead, Left, Do2, Move, IfFoodAhead, IfFoodAhead, Left, 
+Do3, Do2, Left, IfFoodAhead, Do2, Move, Do3, Left, Left, Do3, Right, Left, IfFoodAhead, Do3, Do3, Left, IfFoodAhead, Left, IfFoodAhead, Left, Move, Do3, Move, Right, 
+Left, Move, Right, Move, Left, Left, Left, Move, Move, IfFoodAhead, Left, Move, Left, Left, Move, Move, Left, Left, Left, Right, Left, Right, Move, Right, Move, Right, Left, Move, Right, Left, 
+Move, Move, 
+
+Population 500. 50 Generations in 00:00:05.9500000
+Solution Fitness: 40 out of a possible 89
+Solution:
+IfFoodAhead, 
+IfFoodAhead, Do2, 
+Move, IfFoodAhead, IfFoodAhead, IfFoodAhead, 
+Do3, Do3, Move, Do2, Do2, Right, 
+IfFoodAhead, Left, IfFoodAhead, IfFoodAhead, Do2, Do3, Move, IfFoodAhead, IfFoodAhead, Left, 
+Move, IfFoodAhead, Right, Do3, Right, Do3, Do3, IfFoodAhead, Do2, Do3, Move, Left, Move, Move, IfFoodAhead, 
+Left, Move, Move, Do2, Right, IfFoodAhead, Do2, Do3, Left, Right, Right, Do3, Left, Right, Do3, Do2, Left, Do2, Move, Move, 
+Do3, Move, Do2, Right, IfFoodAhead, IfFoodAhead, Left, Right, Do2, Do3, Move, Right, Left, Left, Right, Right, Do3, Do2, IfFoodAhead, 
+IfFoodAhead, Move, Do3, Do2, IfFoodAhead, Left, IfFoodAhead, Do2, Move, Left, Left, Do3, Left, Right, Left, Left, Right, Move, Move, Move, Right, 
+Right, Move, Move, Left, Left, IfFoodAhead, Left, Do3, Right, Move, Left, Do3, Left, Do2, Move, Right, 
+Do2, Move, Left, Do3, Move, IfFoodAhead, IfFoodAhead, Do2, Left, Right, 
+Move, Right, Do3, Left, Left, Move, Move, IfFoodAhead, Move, Left, IfFoodAhead, 
+Move, Left, Do3, IfFoodAhead, Do3, Do2, IfFoodAhead, 
+Right, Left, Right, Right, Move, Right, Left, Left, IfFoodAhead, Do2, Move, Move, 
+Move, Do2, Left, Move, 
+Move, IfFoodAhead, 
+Left, Move, 
+
+Population 500. 50 Generations in 00:00:07.3020000
+Solution Fitness: 36 out of a possible 89
+Solution:
+Do2, 
+Do2, IfFoodAhead, 
+Right, Do3, Do3, Move, 
+Do3, IfFoodAhead, IfFoodAhead, Move, Do2, IfFoodAhead, 
+Move, IfFoodAhead, IfFoodAhead, Left, Do3, Move, Right, Move, Move, IfFoodAhead, Do2, 
+Move, Left, Move, Move, Move, Left, Move, Do3, Do2, Left, IfFoodAhead, 
+Left, Do3, Right, Move, Left, Right, Do2, 
+Do2, Do2, Do2, IfFoodAhead, Do2, 
+Do2, Move, Do3, Left, Right, Move, Move, Do2, Do2, Left, 
+Right, Do3, Right, Right, Left, Right, IfFoodAhead, Move, Do2, 
+IfFoodAhead, Move, Do2, Do2, IfFoodAhead, IfFoodAhead, Do2, 
+Do3, Left, Do2, Do2, Do3, Do3, Do3, Right, Move, IfFoodAhead, Move, Do3, 
+Move, Right, Left, Move, Move, Move, Do2, Do2, Right, Do3, Do2, Do2, Do3, Right, Move, Do2, Do2, Left, IfFoodAhead, Move, IfFoodAhead, 
+Do3, Move, IfFoodAhead, IfFoodAhead, Do2, Left, Left, Move, Move, Move, IfFoodAhead, Right, Do2, Do2, Do2, Move, Do2, Left, IfFoodAhead, IfFoodAhead, Do2, Left, 
+Right, IfFoodAhead, Do2, Move, Move, Right, Right, Left, Left, Move, Right, Left, Left, Move, Move, Do2, Move, Move, Move, Move, Do2, Do3, Move, Do2, Do2, 
+Left, Do2, Move, Move, Left, Move, Left, Move, Right, Do3, Move, Left, IfFoodAhead, Move, Move, 
+Move, Move, Do3, Do3, Do3, Move, Left, 
+Right, Move, Move, Right, Right, Left, Move, Left, Left, 
+
+Population 500. 50 Generations in 00:00:05.7100000
+Solution Fitness: 43 out of a possible 89
+Solution:
+IfFoodAhead, 
+Move, Do3, 
+Do2, Right, Do3, 
+Left, Do2, IfFoodAhead, Do3, IfFoodAhead, 
+Move, Move, Do3, Do2, Do3, Move, Do2, Right, Right, 
+Do3, Right, Left, Do3, Do3, Right, IfFoodAhead, IfFoodAhead, Move, Move, 
+Move, Right, Do2, Move, Left, Move, Do2, IfFoodAhead, Move, IfFoodAhead, Right, Move, IfFoodAhead, 
+Do3, Do2, Move, Left, IfFoodAhead, Left, Move, Right, Left, Right, 
+Move, Left, IfFoodAhead, Do2, Left, Do2, Right, 
+IfFoodAhead, Right, IfFoodAhead, Move, Move, IfFoodAhead, 
+Right, Right, Move, Move, Right, Right, 
+
+Population 500. 50 Generations in 00:00:05.7790000
+Solution Fitness: 49 out of a possible 89
+Solution:
+Do3, 
+IfFoodAhead, Do3, Right, 
+Do3, Move, IfFoodAhead, Right, Left, 
+Do2, Right, Right, Move, Do3, 
+IfFoodAhead, Do2, Right, Right, Do3, 
+Move, Do3, Left, Do2, Do2, IfFoodAhead, Move, 
+Right, Right, Do3, Do3, Left, IfFoodAhead, IfFoodAhead, Move, IfFoodAhead, 
+Do2, IfFoodAhead, Move, Do2, IfFoodAhead, Move, IfFoodAhead, Move, IfFoodAhead, Right, Do3, Move, 
+IfFoodAhead, IfFoodAhead, Move, Move, Move, Right, Do2, Do3, Do3, Do2, Move, Move, IfFoodAhead, Do3, Do3, 
+Do3, Move, IfFoodAhead, Right, Right, Move, IfFoodAhead, Do3, Move, Do2, Do3, Do3, Do3, IfFoodAhead, Do2, Move, Move, Left, Do3, Do3, Right, Left, 
+Do3, Left, Do3, Move, Move, Move, Right, Do3, Left, Do2, Move, Do2, Left, Right, Move, IfFoodAhead, Do3, IfFoodAhead, Left, Right, Left, Do2, Do3, Move, Right, IfFoodAhead, IfFoodAhead, Do3, Right, Do2, Do3, 
+Right, Right, Right, Right, Move, IfFoodAhead, Left, Right, Move, Move, Left, Move, Do2, Do2, IfFoodAhead, Right, Left, IfFoodAhead, Do3, Do3, Move, Do2, Left, Left, Do3, IfFoodAhead, Left, IfFoodAhead, Right, Do3, Move, IfFoodAhead, Do3, Do2, Move, Move, Left, 
+IfFoodAhead, Move, Do2, Left, Move, Do2, Left, Do2, Right, Left, Left, Do2, Do3, Left, Do3, Move, Right, IfFoodAhead, Right, Move, Do2, Do2, Do3, Do3, Do2, Move, Right, Do2, Right, Do2, Move, Left, Do3, Do3, Left, 
+Left, Do2, Right, Right, Do3, IfFoodAhead, IfFoodAhead, Left, Right, Right, Left, Do2, Move, Left, Right, Move, Right, Right, Move, Right, Right, Move, Move, Move, Right, IfFoodAhead, IfFoodAhead, Do2, Do3, Left, Move, Move, Right, Move, Right, Left, Move, Right, Left, IfFoodAhead, 
+Left, Move, Move, Do2, Move, IfFoodAhead, Do3, Do2, IfFoodAhead, Left, Do3, Left, Do3, Move, Move, IfFoodAhead, IfFoodAhead, Right, Left, Move, Right, IfFoodAhead, 
+Move, Move, Right, Left, Right, Move, Move, Move, Move, Move, Right, Right, Move, Do2, Do3, Right, IfFoodAhead, Right, Right, Move, Do3, Do3, Right, 
+Move, Right, Move, Left, Do2, Move, Move, Right, Right, Right, Left, Left, Move, 
+Left, Move, 
+
+Population 500. 50 Generations in 00:00:09.5070000
+Solution Fitness: 45 out of a possible 89
+Solution:
+Do3, 
+Move, Do2, IfFoodAhead, 
+Move, IfFoodAhead, Do3, Left, 
+Move, Right, IfFoodAhead, Left, IfFoodAhead, 
+IfFoodAhead, Do2, Left, IfFoodAhead, 
+IfFoodAhead, IfFoodAhead, Do2, Do3, Do3, IfFoodAhead, 
+Move, Left, Left, Right, Do3, Right, IfFoodAhead, Do3, Do2, Do2, Do2, IfFoodAhead, Right, Do2, 
+Left, Left, Left, Left, Do3, Right, Left, Do3, IfFoodAhead, Left, Left, Move, IfFoodAhead, Do2, Move, Move, Right, Move, 
+Do3, Left, Do3, Move, Left, Move, Left, Do3, Left, Do3, Do2, Move, 
+Do3, Do2, Left, Right, Right, Right, Left, Move, Do3, IfFoodAhead, Do3, Left, Move, Do3, 
+Left, Right, Move, Left, IfFoodAhead, Right, Move, Right, Do2, Do2, Do2, Do3, IfFoodAhead, Do3, Do3, Move, 
+Left, Left, Right, Right, Do3, Right, Do3, Right, Do3, IfFoodAhead, Do3, Left, Right, Do3, Do3, Move, Do3, Right, IfFoodAhead, 
+Move, Move, Move, Left, Left, Do2, Right, Right, Move, Left, Right, Move, Move, Move, Move, IfFoodAhead, Left, Move, Do2, Right, Do3, IfFoodAhead, Right, Left, Move, 
+Do2, Do3, Move, Left, Left, IfFoodAhead, Move, Do3, Do3, Right, Move, 
+Left, Do2, IfFoodAhead, IfFoodAhead, Do2, Do3, Left, Do3, Do2, Do3, Do3, Right, Do2, 
+Left, Left, Right, Do3, Move, Do2, Do3, Do2, Do3, Do2, Move, Do3, IfFoodAhead, Do3, Right, Move, IfFoodAhead, Move, Right, IfFoodAhead, Left, Do3, Move, Left, 
+Move, Right, Left, Move, Right, Left, Move, Left, Move, Right, IfFoodAhead, Move, Left, Left, Move, Left, Right, Move, Left, Right, Right, IfFoodAhead, Move, Right, Move, Right, Move, Move, Left, IfFoodAhead, 
+Right, Left, Move, Left, Right, Left, 
+
+Population 500. 50 Generations in 00:00:05.9770000
+Solution Fitness: 47 out of a possible 89
+Solution:
+Do3, 
+IfFoodAhead, Move, Do3, 
+Do3, Right, Move, IfFoodAhead, Move, 
+IfFoodAhead, Do2, Move, Move, Left, 
+Do3, Right, Left, Left, 
+Move, IfFoodAhead, Do3, 
+IfFoodAhead, IfFoodAhead, Move, Left, IfFoodAhead, 
+Move, Do2, Left, Right, IfFoodAhead, Left, 
+Right, Do2, Do3, IfFoodAhead, 
+IfFoodAhead, Right, Move, Left, IfFoodAhead, Right, Move, 
+Do3, Right, Left, Move, 
+Move, Left, Right, 
+
+Population 500. 50 Generations in 00:00:12.9560000
+Solution Fitness: 43 out of a possible 89
+Solution:
+Do3, 
+Do2, Do2, Move, 
+Left, Move, Do3, Move, 
+Move, Move, IfFoodAhead, 
+Move, IfFoodAhead, 
+IfFoodAhead, Right, 
+Do2, IfFoodAhead, 
+Do3, Do3, IfFoodAhead, Do3, 
+Do2, Do3, Do2, Move, Move, IfFoodAhead, Left, Move, Move, IfFoodAhead, Do2, 
+Right, Left, Do3, Left, Left, Do2, IfFoodAhead, IfFoodAhead, Do3, Left, Do2, Left, Left, 
+Do3, Right, Do2, Left, Left, Right, IfFoodAhead, Do2, Do2, Do2, Move, Move, Right, Do3, 
+Right, Do3, Right, Move, Move, Move, Move, Move, Move, Move, Right, Do3, Move, Right, Move, Left, 
+Do3, Right, Do2, Left, Right, Move, 
+Move, Left, Right, Right, IfFoodAhead, 
+Left, Right, 
+
+Population 500. 50 Generations in 00:00:04.9530000
+Solution Fitness: 58 out of a possible 89
+Solution:
+IfFoodAhead, 
+IfFoodAhead, IfFoodAhead, 
+IfFoodAhead, Left, Move, Do3, 
+IfFoodAhead, Left, IfFoodAhead, Move, IfFoodAhead, 
+Do3, Move, Right, Do3, IfFoodAhead, IfFoodAhead, 
+Move, Move, Right, Move, Left, Left, Move, Do2, Move, Do3, 
+IfFoodAhead, IfFoodAhead, IfFoodAhead, Move, Right, 
+Left, Move, Do3, Move, Right, Right, 
+IfFoodAhead, Move, Do2, 
+IfFoodAhead, Do2, Move, Move, 
+Do3, IfFoodAhead, Do3, IfFoodAhead, 
+Do3, Move, Left, Move, IfFoodAhead, Do3, Do2, Do2, Right, Right, 
+Left, Left, Do3, Do3, IfFoodAhead, IfFoodAhead, Move, Left, Move, Left, Move, Do2, 
+Do2, Left, Move, Left, Left, Move, Left, Left, Right, Left, Left, IfFoodAhead, 
+Move, Left, Left, Left, 
+
+Population 500. 50 Generations in 00:00:07.4230000
+Solution Fitness: 43 out of a possible 89
+Solution:
+Do2, 
+Left, Do3, 
+Move, IfFoodAhead, IfFoodAhead, 
+Do3, IfFoodAhead, Right, Move, 
+Do3, Left, IfFoodAhead, Move, Right, 
+Move, Do2, Do2, Right, Right, 
+Do3, IfFoodAhead, Move, Move, 
+IfFoodAhead, Move, IfFoodAhead, Move, Right, 
+IfFoodAhead, Do3, Move, Do2, 
+Do2, Right, IfFoodAhead, Move, Do3, Left, Move, 
+Move, Move, Left, Do2, Move, Move, Do2, 
+IfFoodAhead, Move, Do2, Left, 
+Right, Left, Move, IfFoodAhead, 
+Move, IfFoodAhead, 
+Right, Right, 
+
+Population 500. 50 Generations in 00:00:04.9800000
+Solution Fitness: 46 out of a possible 89
+Solution:
+Do2, 
+Move, Do3, 
+IfFoodAhead, Move, IfFoodAhead, 
+Do2, Right, Do2, Left, 
+Do2, Do2, Do2, Move, 
+Do3, Move, Do2, Do2, IfFoodAhead, Do3, 
+Move, Right, Do2, Do3, Do3, Move, Move, Move, Do3, Right, Do2, Do2, 
+Do2, Do3, Move, Move, Do2, Move, Move, Move, Left, Left, Do2, Do2, IfFoodAhead, Left, Do2, 
+IfFoodAhead, IfFoodAhead, Left, Left, Do2, Move, Right, Move, Move, Do3, Do3, IfFoodAhead, Move, Move, Right, 
+Move, Left, IfFoodAhead, Move, Do2, Move, Move, Move, Move, Do3, Move, IfFoodAhead, Do2, Move, 
+Move, IfFoodAhead, Left, Do2, IfFoodAhead, Move, Do2, Left, Move, Do2, Move, 
+Do3, Move, IfFoodAhead, Move, Move, IfFoodAhead, Do2, Move, Do2, Move, 
+Do2, Do3, Do3, Move, Left, Do2, Right, Right, Right, Move, IfFoodAhead, 
+Do3, Move, Move, Move, Do3, Do2, Right, Right, Move, Move, Left, Left, 
+Move, Do2, Move, Right, IfFoodAhead, Move, Move, Left, 
+Move, Move, Right, Do2, 
+Move, IfFoodAhead, 
+Left, Right, 
+
+Population 500. 50 Generations in 00:00:11.4150000
+Solution Fitness: 40 out of a possible 89
+Solution:
+IfFoodAhead, 
+IfFoodAhead, IfFoodAhead, 
+Do3, Left, Do3, Do3, 
+IfFoodAhead, Left, Do3, Right, Do2, Right, IfFoodAhead, Do3, Move, 
+IfFoodAhead, Do2, Right, IfFoodAhead, Do3, Do3, Do2, Do3, Left, Move, Move, Right, 
+Move, Left, Left, Right, Do3, Move, Right, Move, Left, Do2, Move, Move, Left, Do3, Do2, Do3, Do3, 
+Do3, IfFoodAhead, Do3, Move, Do3, Move, Right, Do3, Move, Do3, Left, Right, Do3, Do2, Left, IfFoodAhead, 
+Do3, Right, Do3, Do3, Move, Left, Do2, IfFoodAhead, IfFoodAhead, Left, IfFoodAhead, Do2, Do2, Do3, Right, Right, Do2, IfFoodAhead, Move, Do3, Move, IfFoodAhead, Move, Left, 
+Move, Do3, Move, Left, Do3, IfFoodAhead, Move, Right, Do3, Left, Left, IfFoodAhead, Right, Move, Move, Left, Do2, Left, Do3, Left, Move, IfFoodAhead, IfFoodAhead, Right, Do2, Do2, Do2, Do3, Do3, Right, IfFoodAhead, Move, Left, 
+IfFoodAhead, Do2, Move, IfFoodAhead, Do2, Move, Right, IfFoodAhead, Move, Move, Left, IfFoodAhead, IfFoodAhead, Left, Do3, Move, Left, IfFoodAhead, Right, IfFoodAhead, IfFoodAhead, Do2, Do3, Do3, Do3, Do3, Right, Move, Left, Do3, IfFoodAhead, Do2, IfFoodAhead, Do3, IfFoodAhead, Right, 
+IfFoodAhead, Right, Right, Do3, Move, Right, Move, Move, Move, Right, Move, Do3, Move, Move, Move, Do2, IfFoodAhead, Left, Do2, Right, Move, Move, Left, Left, Right, Do3, Move, IfFoodAhead, Right, Right, Do2, Left, Do3, IfFoodAhead, Right, Move, Left, Right, Right, Move, Left, Right, IfFoodAhead, Right, Right, Move, Do2, Move, Move, Left, Move, 
+IfFoodAhead, Do3, Move, Move, Left, Do2, Left, Do3, Do3, Do2, Do2, Move, Left, Do3, Do3, IfFoodAhead, Right, IfFoodAhead, Right, Do3, Right, Right, Left, Right, Right, Left, IfFoodAhead, IfFoodAhead, Move, Move, 
+Move, Do3, IfFoodAhead, Do2, Do3, IfFoodAhead, IfFoodAhead, Do3, Do2, Do3, Do3, Do2, Left, Left, Right, Do3, IfFoodAhead, Move, Do2, IfFoodAhead, Right, Right, Move, Left, Left, IfFoodAhead, Move, Do2, Move, Move, Move, Right, Right, Left, 
+IfFoodAhead, IfFoodAhead, Move, Right, Move, Left, Move, Move, Right, Move, IfFoodAhead, Left, Move, Move, Left, Left, Move, Left, Right, Right, Move, Right, Move, Right, Left, IfFoodAhead, Move, IfFoodAhead, IfFoodAhead, Do3, Left, Do2, Do3, Do2, Do2, Move, Right, Move, Right, Do3, 
+Right, IfFoodAhead, Move, Move, IfFoodAhead, Do2, Move, Move, Move, Do3, Move, Do2, Do2, Do3, IfFoodAhead, Move, Do3, Do3, Do2, Left, Left, Left, Move, IfFoodAhead, Left, IfFoodAhead, IfFoodAhead, 
+Do2, Right, Move, Left, Left, Right, Left, Right, Left, Do3, Right, Move, Left, Do3, IfFoodAhead, Right, Right, IfFoodAhead, Move, Do2, IfFoodAhead, Move, Right, IfFoodAhead, IfFoodAhead, Move, Move, Do2, Move, Right, Right, Move, 
+Move, Move, Left, Left, Left, Right, Right, Move, Left, Left, Move, Move, Left, Right, Right, Left, Right, Move, Move, Left, Move, Left, 
+
+Population 500. 50 Generations in 00:00:06.3930000
+Solution Fitness: 47 out of a possible 89
+Solution:
+IfFoodAhead, 
+Do2, IfFoodAhead, 
+Do3, Do2, Do3, Do3, 
+IfFoodAhead, Left, IfFoodAhead, Do3, Do2, Do3, Left, Left, Do2, Do3, Left, 
+Move, Left, Do2, Right, Move, Move, IfFoodAhead, Move, Left, Do2, Move, IfFoodAhead, Right, Move, Left, Right, Do2, 
+Do3, Right, Move, Right, Left, Move, Do2, IfFoodAhead, Move, Move, 
+Move, Do3, IfFoodAhead, Do3, IfFoodAhead, Do3, Left, 
+Do2, IfFoodAhead, IfFoodAhead, Do2, IfFoodAhead, Move, Left, IfFoodAhead, Do2, Right, Do2, Do3, Right, 
+Move, Move, Left, Do2, Move, Move, Right, Right, Do3, Left, Do2, Move, IfFoodAhead, Right, Move, Do3, IfFoodAhead, Do3, Do3, 
+IfFoodAhead, Do3, Move, Left, IfFoodAhead, IfFoodAhead, Right, IfFoodAhead, Left, Left, Left, Right, Right, IfFoodAhead, Do3, Do3, Move, Move, Do2, Do2, 
+Right, Do3, Move, Do3, IfFoodAhead, Left, Left, Move, Move, Right, Left, IfFoodAhead, Move, Move, Right, Left, Move, Move, Move, Left, Right, Do3, IfFoodAhead, 
+Right, Move, Right, IfFoodAhead, IfFoodAhead, Right, Left, Move, Right, Do2, IfFoodAhead, Move, Right, Left, IfFoodAhead, 
+Left, Do2, Do2, Right, Left, Left, Left, Right, Move, Move, 
+Right, Left, IfFoodAhead, Move, 
+Do3, IfFoodAhead, 
+Right, Left, Right, Move, Do2, 
+Move, Left, 
+
+Population 500. 50 Generations in 00:00:06.8900000
+Solution Fitness: 48 out of a possible 89
+Solution:
+IfFoodAhead, 
+Do2, IfFoodAhead, 
+Do2, IfFoodAhead, Do3, Move, 
+Move, Do3, Move, Do2, Do3, IfFoodAhead, Move, 
+Do2, Move, IfFoodAhead, IfFoodAhead, Move, Left, Move, IfFoodAhead, Move, Do3, 
+IfFoodAhead, Move, Right, Do2, Do3, Left, IfFoodAhead, Do3, Left, Right, Move, 
+Right, IfFoodAhead, Move, Right, Move, Right, Do2, Left, Do3, IfFoodAhead, Do3, Do2, 
+Do2, Do2, IfFoodAhead, Move, Left, Move, Left, Do2, Move, Move, IfFoodAhead, IfFoodAhead, Do3, Right, 
+Do2, Left, Right, Move, Right, Left, Do2, IfFoodAhead, Move, Left, Move, Move, Do2, Move, IfFoodAhead, 
+Left, Move, Move, Move, IfFoodAhead, Move, IfFoodAhead, Move, Right, Do2, 
+Right, Do3, Right, IfFoodAhead, Move, Right, 
+Move, Move, Move, Do3, Right, 
+Left, Do3, Left, 
+Do2, IfFoodAhead, Move, 
+Right, Left, Right, Right, 
+
+Population 500. 50 Generations in 00:00:06.3810000
+Solution Fitness: 41 out of a possible 89
+Solution:
+Do3, 
+Left, IfFoodAhead, Do3, 
+Do3, Left, IfFoodAhead, Move, Move, 
+Move, Move, Move, IfFoodAhead, Do3, 
+Do2, Do3, Left, Move, Left, 
+IfFoodAhead, Do3, IfFoodAhead, Do2, Do2, 
+IfFoodAhead, IfFoodAhead, Move, Left, Right, Do2, Left, Do3, Move, Move, Do3, 
+Do2, Left, Do2, Move, Move, Do3, Move, Left, Right, Move, Move, Left, 
+Move, Move, Move, Right, Do2, Right, Do3, 
+IfFoodAhead, Do3, IfFoodAhead, IfFoodAhead, Do3, 
+Move, IfFoodAhead, IfFoodAhead, Do3, Right, Move, Right, Do2, Do3, IfFoodAhead, Left, Do3, 
+Right, Do3, Right, Left, Do3, Left, Do3, Do3, Right, Left, Do2, Do2, Left, IfFoodAhead, Left, Left, IfFoodAhead, 
+Right, Move, Left, IfFoodAhead, IfFoodAhead, IfFoodAhead, IfFoodAhead, Do3, Do3, Right, Do3, Do2, IfFoodAhead, IfFoodAhead, Left, Right, Do2, Right, Move, Do3, 
+Move, Do3, Left, Move, Move, Right, Right, Move, Do3, Do3, Move, Do2, Do2, Do3, IfFoodAhead, Do3, Do3, Right, Do3, Do2, Left, Move, Do3, Do3, Move, IfFoodAhead, Left, Move, 
+Move, IfFoodAhead, Do3, Move, Do3, Move, IfFoodAhead, Move, Do2, Do2, Left, Left, Left, Left, Do2, Move, Right, Do2, Do3, Left, Move, Move, Move, Left, Left, Do2, Do2, Move, Move, Right, Right, Do3, Right, Left, Left, Do2, Do2, 
+Move, Move, Do3, Move, Do2, Move, Move, Move, Move, Right, Right, Do2, Right, Do2, IfFoodAhead, Move, Left, Left, Left, Do3, Move, Do3, Left, Left, Move, Right, Left, Left, Move, Left, Move, Move, 
+Move, Left, Move, Move, Right, IfFoodAhead, Right, Do2, Move, Move, Move, Move, Left, Left, Right, Right, Do3, 
+Move, Left, Move, Right, Left, Left, Left, 
+

@@ -1,0 +1,361 @@
+Population 1000. 50 Generations in 00:00:04.4490000
+Solution Fitness: 1445.58464302028 out of a possible 2000
+Solution:
+mult, 
+e, X, 
+div, mult, 
+X, cos, e, e, 
+mult, plus, minus, plus, minus, 
+sin, ln, minus, cos, e, e, div, mult, minus, sin, 
+div, e, minus, X, X, X, e, mult, ln, cos, sin, plus, e, X, cos, plus, 
+X, X, X, e, plus, minus, mult, X, X, X, mult, plus, sin, X, X, X, e, X, mult, mult, 
+sin, X, e, X, X, mult, X, X, X, cos, sin, X, X, mult, X, plus, cos, X, cos, 
+X, plus, X, div, e, e, e, plus, cos, cos, minus, sin, e, 
+div, plus, minus, plus, X, sin, div, sin, ln, X, mult, minus, X, X, X, X, X, mult, ln, 
+plus, X, X, X, cos, mult, X, div, plus, sin, sin, X, mult, X, plus, X, X, X, sin, X, 
+ln, minus, cos, X, X, minus, ln, div, X, minus, X, X, cos, X, mult, X, 
+plus, X, X, X, sin, ln, X, minus, sin, div, X, minus, plus, X, 
+sin, plus, sin, X, X, X, X, sin, X, cos, minus, X, X, 
+sin, X, div, X, X, X, X, X, 
+X, X, X, 
+
+Population 1000. 50 Generations in 00:00:03.6090000
+Solution Fitness: 1540.72577126289 out of a possible 2000
+Solution:
+mult, 
+mult, e, 
+X, e, mult, plus, 
+mult, mult, X, mult, sin, div, 
+sin, X, X, X, X, sin, plus, ln, minus, 
+e, X, minus, e, e, div, e, 
+X, X, sin, div, X, sin, plus, sin, mult, e, e, ln, 
+cos, sin, e, div, X, X, X, sin, X, X, X, e, sin, plus, 
+e, X, e, div, X, minus, X, minus, minus, div, X, plus, 
+X, X, e, plus, X, e, div, cos, sin, X, X, X, ln, e, div, cos, 
+div, plus, cos, div, X, X, mult, X, X, X, X, ln, X, e, plus, mult, 
+X, X, X, sin, X, mult, minus, plus, mult, mult, mult, div, plus, sin, X, X, 
+X, mult, div, X, cos, X, X, cos, X, X, X, X, mult, X, mult, X, div, mult, 
+X, e, X, minus, cos, X, X, sin, X, X, minus, minus, X, div, 
+X, plus, X, X, X, X, sin, plus, X, cos, X, X, 
+X, X, X, X, X, X, 
+
+Population 1000. 50 Generations in 00:00:15.0600000
+Solution Fitness: 1023.93589808886 out of a possible 2000
+Solution:
+plus, 
+sin, mult, 
+plus, ln, mult, 
+mult, X, mult, ln, mult, 
+X, sin, sin, mult, cos, e, X, 
+plus, X, plus, ln, mult, mult, X, 
+mult, mult, e, mult, cos, plus, ln, X, plus, 
+X, X, sin, e, e, X, X, X, minus, minus, mult, plus, cos, X, 
+X, cos, X, X, e, X, X, mult, X, X, X, X, X, mult, 
+ln, sin, plus, ln, sin, X, X, 
+X, cos, plus, mult, ln, cos, 
+mult, X, e, X, div, X, minus, 
+X, X, X, div, X, X, X, X, 
+X, e, 
+sin, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:02.1150000
+Solution Fitness: 1345.25315206039 out of a possible 2000
+Solution:
+mult, 
+X, e, 
+mult, e, 
+sin, e, X, div, 
+X, mult, mult, mult, X, 
+X, sin, X, X, plus, sin, 
+X, mult, e, X, 
+e, sin, X, X, 
+X, X, X, 
+
+Population 1000. 50 Generations in 00:00:03.2880000
+Solution Fitness: 1145.18957636821 out of a possible 2000
+Solution:
+mult, 
+div, e, 
+X, cos, X, plus, 
+X, ln, X, 
+mult, 
+e, ln, 
+X, div, plus, 
+X, X, ln, e, 
+X, plus, minus, 
+X, plus, e, plus, 
+minus, div, X, cos, X, X, 
+minus, X, X, X, X, 
+sin, ln, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:44.0560000
+Solution Fitness: 1213.11923496766 out of a possible 2000
+Solution:
+mult, 
+e, X, 
+X, minus, 
+e, e, 
+e, div, X, e, 
+e, minus, ln, X, div, minus, 
+sin, X, mult, plus, e, X, sin, mult, plus, 
+e, plus, minus, X, ln, div, minus, div, ln, ln, minus, e, 
+ln, sin, plus, cos, X, plus, div, div, ln, plus, sin, div, ln, minus, sin, ln, minus, e, minus, 
+div, cos, plus, X, mult, mult, div, minus, ln, X, X, X, plus, X, X, mult, div, div, plus, plus, X, mult, X, cos, e, mult, e, mult, 
+sin, X, X, div, cos, minus, div, cos, sin, e, X, X, X, ln, plus, X, plus, e, X, X, ln, minus, sin, X, e, cos, plus, sin, cos, cos, minus, minus, minus, X, minus, ln, minus, 
+minus, e, mult, X, div, sin, plus, plus, X, X, ln, X, X, mult, ln, plus, sin, e, plus, minus, sin, mult, ln, plus, ln, X, div, e, X, ln, sin, X, sin, cos, plus, sin, sin, minus, X, X, minus, mult, 
+div, mult, e, ln, X, div, plus, e, div, sin, sin, sin, sin, cos, plus, X, X, X, minus, mult, cos, cos, sin, cos, cos, X, X, mult, minus, X, minus, X, e, X, X, X, X, sin, e, div, sin, mult, minus, cos, X, cos, mult, div, mult, X, div, 
+ln, plus, sin, mult, plus, div, e, minus, cos, ln, mult, div, X, e, ln, plus, e, e, X, X, X, X, e, sin, mult, plus, minus, cos, e, X, X, cos, mult, X, e, X, X, X, X, mult, X, X, cos, plus, mult, mult, cos, X, ln, sin, plus, minus, div, cos, div, X, div, plus, plus, 
+mult, div, div, ln, mult, mult, sin, div, minus, mult, X, minus, cos, mult, sin, X, plus, e, ln, plus, div, e, e, div, e, div, minus, div, plus, ln, plus, e, X, sin, sin, minus, plus, minus, X, sin, plus, sin, sin, X, minus, plus, e, div, cos, minus, plus, X, X, mult, mult, div, plus, X, div, sin, X, e, cos, X, e, sin, ln, plus, plus, sin, X, div, plus, 
+mult, div, e, X, plus, ln, ln, minus, e, X, ln, cos, X, X, sin, sin, plus, mult, cos, plus, X, sin, ln, ln, X, mult, X, e, cos, X, mult, div, plus, sin, minus, div, cos, X, minus, mult, sin, e, mult, plus, mult, cos, X, div, X, e, mult, e, mult, plus, X, div, e, sin, X, plus, mult, minus, ln, plus, ln, e, div, mult, mult, plus, minus, ln, mult, sin, plus, X, mult, X, X, e, sin, div, X, mult, X, sin, mult, X, cos, ln, div, sin, cos, sin, sin, minus, plus, div, sin, X, div, plus, X, X, X, X, X, 
+X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, div, sin, X, X, X, X, X, X, e, X, cos, X, X, X, X, X, X, X, X, X, X, X, X, minus, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, mult, X, X, X, sin, X, X, X, X, X, X, X, X, X, X, X, e, X, X, X, X, X, X, X, X, X, X, X, X, X, X, sin, cos, ln, e, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, 
+X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, 
+
+Population 1000. 50 Generations in 00:00:03.2330000
+Solution Fitness: 1296.36664166567 out of a possible 2000
+Solution:
+mult, 
+e, div, 
+X, e, X, cos, 
+X, mult, sin, 
+mult, X, X, 
+X, e, 
+e, X, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:07.3400000
+Solution Fitness: 1311.99773756868 out of a possible 2000
+Solution:
+ln, 
+e, 
+mult, sin, 
+e, X, mult, 
+plus, mult, cos, plus, 
+X, mult, e, X, mult, e, div, 
+mult, plus, X, sin, mult, X, ln, sin, mult, minus, 
+X, X, cos, X, X, mult, mult, sin, e, minus, sin, ln, div, 
+div, sin, X, X, plus, X, minus, ln, X, X, X, cos, e, div, 
+X, X, plus, X, X, e, X, X, X, X, X, X, X, 
+X, X, div, X, 
+X, plus, 
+div, sin, 
+X, e, ln, 
+X, cos, mult, 
+plus, X, X, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:02.6480000
+Solution Fitness: 1427.66906124712 out of a possible 2000
+Solution:
+mult, 
+e, div, 
+X, e, X, cos, 
+minus, ln, sin, 
+div, X, X, X, 
+X, e, 
+div, e, 
+X, X, X, minus, 
+minus, sin, 
+plus, cos, X, 
+sin, X, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:03.5570000
+Solution Fitness: 1129.54483241519 out of a possible 2000
+Solution:
+mult, 
+e, mult, 
+X, mult, sin, e, 
+X, minus, X, mult, X, 
+mult, minus, div, cos, 
+X, X, plus, X, minus, minus, cos, 
+sin, sin, sin, X, minus, e, e, 
+mult, e, X, X, X, X, X, X, cos, 
+e, e, X, e, e, 
+mult, cos, minus, mult, e, minus, sin, X, 
+minus, e, e, sin, X, X, minus, X, mult, e, sin, div, 
+X, minus, ln, minus, sin, X, e, sin, X, X, X, e, X, e, X, X, 
+X, cos, plus, minus, X, e, X, X, minus, sin, mult, X, X, 
+X, X, div, e, X, X, minus, mult, X, X, X, X, 
+e, e, X, ln, X, cos, sin, X, 
+e, X, X, X, X, cos, X, 
+X, cos, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:07.6050000
+Solution Fitness: 1193.55504324456 out of a possible 2000
+Solution:
+div, 
+X, e, 
+minus, minus, 
+cos, e, div, plus, 
+div, sin, plus, X, X, X, X, 
+X, minus, X, ln, div, 
+X, plus, X, e, X, 
+e, e, e, minus, 
+plus, sin, X, div, div, div, cos, div, 
+X, X, mult, X, cos, minus, div, sin, mult, X, minus, div, 
+X, plus, X, plus, ln, minus, sin, div, X, X, div, mult, X, sin, 
+X, e, ln, ln, X, X, plus, div, minus, cos, X, e, div, mult, plus, 
+plus, cos, mult, cos, X, X, X, X, X, mult, X, X, minus, X, X, e, X, X, sin, 
+X, X, sin, mult, plus, e, X, minus, X, X, X, X, X, 
+cos, cos, X, X, X, X, X, X, e, 
+X, X, sin, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:04.7790000
+Solution Fitness: 1052.44212898063 out of a possible 2000
+Solution:
+mult, 
+X, e, 
+minus, e, 
+X, ln, e, mult, 
+cos, div, mult, sin, div, 
+X, minus, sin, sin, minus, mult, e, mult, 
+sin, X, sin, plus, sin, plus, plus, X, X, e, X, ln, 
+X, X, X, X, sin, sin, plus, X, X, X, mult, X, 
+X, X, e, X, ln, minus, 
+X, sin, X, X, plus, 
+X, plus, plus, 
+X, cos, X, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:01.1780000
+Solution Fitness: 1220.22860042755 out of a possible 2000
+Solution:
+mult, 
+e, X, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:33.8440000
+Solution Fitness: 1406.58840804275 out of a possible 2000
+Solution:
+mult, 
+e, div, 
+X, plus, X, cos, 
+minus, minus, sin, 
+X, mult, e, X, X, 
+ln, mult, minus, minus, 
+mult, minus, cos, e, ln, cos, X, 
+div, sin, X, X, X, ln, ln, plus, div, 
+cos, mult, X, mult, e, X, X, ln, e, 
+div, mult, minus, ln, e, X, div, e, plus, ln, 
+e, X, sin, sin, e, plus, div, mult, plus, sin, plus, sin, ln, mult, mult, e, 
+e, plus, div, sin, sin, mult, X, minus, plus, plus, minus, e, div, X, X, ln, sin, ln, e, minus, minus, mult, plus, div, cos, 
+minus, X, X, X, mult, cos, cos, e, X, X, X, e, ln, ln, ln, X, cos, plus, e, sin, cos, ln, plus, plus, plus, minus, X, mult, div, X, ln, mult, plus, sin, ln, X, X, cos, 
+plus, div, X, minus, X, minus, cos, mult, cos, ln, plus, X, e, mult, plus, cos, minus, e, ln, ln, X, X, X, X, X, ln, div, e, cos, sin, X, plus, ln, div, X, X, X, X, div, sin, sin, 
+e, e, div, ln, e, X, cos, ln, X, X, X, X, X, minus, plus, ln, ln, sin, e, plus, e, cos, X, cos, plus, e, ln, div, X, div, cos, X, X, X, ln, ln, sin, e, X, e, mult, sin, ln, X, 
+X, X, X, X, X, X, ln, div, X, X, X, X, plus, sin, X, X, X, X, e, sin, plus, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, sin, X, X, X, X, ln, 
+div, X, X, X, X, X, X, X, X, X, X, mult, X, 
+X, X, X, X, 
+
+Population 1000. 50 Generations in 00:00:28.1950000
+Solution Fitness: 1348.39173818084 out of a possible 2000
+Solution:
+mult, 
+e, mult, 
+X, X, X, cos, 
+mult, 
+ln, div, 
+X, mult, e, 
+X, e, ln, sin, 
+ln, mult, e, ln, 
+plus, e, X, e, X, X, 
+mult, X, plus, plus, ln, div, 
+plus, plus, X, X, sin, mult, e, X, X, 
+div, X, ln, sin, mult, plus, div, e, ln, 
+div, X, minus, plus, X, X, X, X, X, X, plus, sin, div, 
+ln, div, X, mult, div, minus, minus, e, X, X, ln, 
+ln, ln, sin, X, cos, ln, sin, X, cos, sin, mult, sin, minus, plus, 
+X, X, plus, X, X, X, X, X, X, X, X, X, X, X, X, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:04.9480000
+Solution Fitness: 1012.78766491776 out of a possible 2000
+Solution:
+mult, 
+sin, e, 
+X, sin, e, 
+X, div, mult, 
+plus, e, X, e, 
+minus, minus, ln, X, X, plus, 
+mult, e, plus, X, X, e, div, 
+X, X, mult, plus, X, ln, X, X, X, X, 
+X, X, mult, div, X, 
+X, X, e, X, 
+X, e, 
+minus, plus, 
+X, cos, div, X, 
+ln, cos, plus, 
+e, ln, div, mult, 
+sin, X, mult, e, X, e, X, 
+e, plus, X, ln, X, X, X, 
+X, X, X, X, X, 
+
+Population 1000. 50 Generations in 00:00:02.4810000
+Solution Fitness: 1603.12433038585 out of a possible 2000
+Solution:
+mult, 
+sin, e, 
+X, div, e, 
+minus, X, X, plus, 
+mult, X, X, e, 
+X, e, X, minus, 
+X, X, cos, plus, 
+X, e, plus, 
+plus, plus, e, plus, 
+cos, X, X, X, X, X, e, plus, 
+X, e, X, X, X, 
+X, sin, 
+X, 
+
+Population 1000. 50 Generations in 00:00:03.8370000
+Solution Fitness: 1236.67943182424 out of a possible 2000
+Solution:
+mult, 
+X, e, 
+ln, e, 
+e, mult, plus, 
+div, sin, ln, X, e, plus, 
+X, e, X, X, sin, X, plus, cos, 
+mult, minus, X, cos, div, cos, 
+ln, X, X, X, X, e, div, e, 
+mult, X, ln, e, mult, X, mult, 
+cos, plus, X, X, X, ln, e, minus, X, 
+minus, X, X, plus, X, cos, e, cos, 
+X, ln, X, plus, plus, mult, plus, sin, 
+cos, minus, X, sin, X, X, X, X, e, plus, 
+mult, X, X, div, div, plus, X, X, 
+X, cos, X, X, X, X, X, X, 
+X, 
+
+Population 1000. 50 Generations in 00:00:08.9470000
+Solution Fitness: 858.570302310436 out of a possible 2000
+Solution:
+div, 
+plus, cos, 
+mult, X, X, 
+X, X, 
+
+Population 1000. 50 Generations in 00:00:02.7960000
+Solution Fitness: 1518.58702809692 out of a possible 2000
+Solution:
+mult, 
+mult, e, 
+X, e, sin, mult, 
+mult, mult, X, div, e, 
+sin, mult, div, sin, X, sin, X, mult, 
+X, X, X, mult, X, e, mult, mult, cos, 
+mult, div, X, X, X, X, mult, div, mult, 
+e, X, X, plus, e, mult, ln, mult, plus, mult, 
+e, X, div, X, X, ln, e, X, plus, X, X, mult, e, sin, e, 
+cos, X, minus, X, mult, X, X, X, div, X, mult, plus, mult, X, X, X, 
+div, X, X, mult, X, X, sin, X, sin, mult, X, X, X, 
+X, X, X, cos, X, X, X, e, 
+ln, X, X, 
+e, 
+div, mult, 
+X, e, X, X, 
+X, X, 
+

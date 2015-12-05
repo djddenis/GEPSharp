@@ -1,0 +1,17 @@
+digraph T {
+	Do20 -> Move1;
+	Do20 -> Do32;
+	Do32 -> Move3;
+	Do32 -> IfFoodAhead4;
+	Do32 -> IfFoodAhead5;
+	IfFoodAhead4 -> Move6;
+	IfFoodAhead4 -> Left7;
+	IfFoodAhead5 -> IfFoodAhead8;
+	IfFoodAhead5 -> Right9;
+	IfFoodAhead8 -> Move10;
+	IfFoodAhead8 -> Left11;
+	IfFoodAhead13 -> Right12;
+	IfFoodAhead13 -> IfFoodAhead13;
+	IfFoodAhead15 -> Right14;
+	IfFoodAhead15 -> IfFoodAhead15;
+}

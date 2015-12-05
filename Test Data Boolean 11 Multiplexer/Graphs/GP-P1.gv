@@ -1,0 +1,17 @@
+digraph T {
+	IF4 -> A15
+	IF7 -> A28
+	AND11 -> D212
+	AND11 -> D013
+	IF10 -> AND11
+	IF10 -> D414
+	IF10 -> D015
+	OR9 -> IF10
+	OR9 -> D316
+	IF7 -> OR9
+	IF7 -> D217
+	AND6 -> IF7
+	AND6 -> D618
+	IF4 -> AND6
+	IF4 -> D019
+}

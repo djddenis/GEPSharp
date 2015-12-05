@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEPSharp", "GEPSharp\GEPSharp.csproj", "{DA3AFF1B-B14C-49C2-96DA-FDCD7B173B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialAnt", "ArtificialAnt\ArtificialAnt.csproj", "{D0B41929-1515-4355-94A0-8203058A39A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimal Control", "Optimal Control\Optimal Control.csproj", "{3EB417FD-A753-4D4E-920C-E92DA21A04F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolicRegression", "SymbolicRegression\SymbolicRegression.csproj", "{9562F3B7-3D11-4ECD-94D0-620458D4F751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean11Multiplexer", "Boolean11Multiplexer\Boolean11Multiplexer.csproj", "{2558C38F-43FA-4890-AC65-3E97CF4A56E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3AFF1B-B14C-49C2-96DA-FDCD7B173B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3AFF1B-B14C-49C2-96DA-FDCD7B173B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3AFF1B-B14C-49C2-96DA-FDCD7B173B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3AFF1B-B14C-49C2-96DA-FDCD7B173B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B41929-1515-4355-94A0-8203058A39A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B41929-1515-4355-94A0-8203058A39A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B41929-1515-4355-94A0-8203058A39A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B41929-1515-4355-94A0-8203058A39A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB417FD-A753-4D4E-920C-E92DA21A04F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB417FD-A753-4D4E-920C-E92DA21A04F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB417FD-A753-4D4E-920C-E92DA21A04F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB417FD-A753-4D4E-920C-E92DA21A04F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9562F3B7-3D11-4ECD-94D0-620458D4F751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9562F3B7-3D11-4ECD-94D0-620458D4F751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9562F3B7-3D11-4ECD-94D0-620458D4F751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9562F3B7-3D11-4ECD-94D0-620458D4F751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2558C38F-43FA-4890-AC65-3E97CF4A56E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2558C38F-43FA-4890-AC65-3E97CF4A56E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2558C38F-43FA-4890-AC65-3E97CF4A56E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2558C38F-43FA-4890-AC65-3E97CF4A56E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
